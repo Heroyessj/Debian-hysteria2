@@ -49,7 +49,7 @@ echo "==============================================="
 echo
 echo "地址   ：${SERVER_IP}"
 echo "端口   ：45433"
-echo "密码   ：S123456j"
+echo "密码   ：哈哈"
 echo "SNI    ：bing.com"
 echo "ALPN   ：h3"
 echo
@@ -58,4 +58,6 @@ echo "hysteria2://S123456j@${SERVER_IP}:45433/?sni=bing.com&alpn=h3&insecure=1#H
 echo
 echo "==============================================="
 echo "全部完成！祝使用愉快！"
+echo "查看状态"
+echo "systemctl status hysteria-server.service"
 echo "==============================================="
