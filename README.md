@@ -27,7 +27,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/heroyessj/Debian-hysteria2/m
 | 项目 | 值 |
 |------|------|
 | 端口 | 45433 |
-| 密码 | S123456j |
+| 密码 |  |
 | SNI | bing.com |
 | ALPN | h3 |
 | 伪装站 | https://bing.com |
