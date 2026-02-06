@@ -15,7 +15,7 @@ chown hysteria /etc/hysteria/server.crt
 
 echo "=== 写入 HY2 配置 ==="
 cat << EOF > /etc/hysteria/config.yaml
-listen: :45433
+listen: :12201
 
 tls:
   cert: /etc/hysteria/server.crt
